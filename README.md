@@ -58,6 +58,8 @@ Menu options:
 | 12             | (value)   | (value) |
 | 16             | (value)   | (value) |
 
+![Live Demo](docs/live-demo.png)
+
 ## Analysis
 
 - Speedup grows as threads are added, until it reaches the hardware limit.
