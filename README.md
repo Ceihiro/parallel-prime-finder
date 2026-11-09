@@ -1,6 +1,6 @@
 # Parallel Prime Number Finder
 
-A case study for **Parallel and Distributed Computing**, written in C++.
+A project for **Parallel and Distributed Computing**, written in C++.
 
 ## Problem
 

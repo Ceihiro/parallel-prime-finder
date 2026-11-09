@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Build Prime Finder (g++)",
+            "command": "g++",
+            "args": [
+                "-O2",
+                "-std=c++17",
+                "src/main.cpp",
+                "-o",
+                "prime_finder.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}
+
